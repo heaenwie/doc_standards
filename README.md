@@ -6,8 +6,8 @@ Program sprawdzający poprawność numerów PESEL, NIP w momencie dodawania uży
 
 * Ruby version
 
-ruby 2.3.3
-Rails 5.0.1
+** ruby 2.3.3
+** Rails 5.0.1
 
 * System dependencies
 
