@@ -19,8 +19,13 @@
       </tr>
     <% end %>
   </tbody>
+  <tr></tr>
+  <tr>
+    <td></td>
+  </tr>
 </table>
 
 <br>
 
-<%= link_to 'New User', new_user_path %>
+<button><%= link_to 'New User', new_user_path %></button>
+<button><%= link_to 'Download as .CSV', '/users.csv' %></button>
